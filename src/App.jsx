@@ -19,12 +19,9 @@ function App() {
         </SignedIn>
       </header>
 
-      <h1>Started</h1>
+      <h1>SonicMood</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate sed
-        doloremque, fugiat, dignissimos aut esse officia iste nisi natus eaque
-        doloribus laboriosam ipsum quam maiores neque veritatis suscipit quae
-        dolorem.
+        Generate a Spotify playlist based on your listening history and mood, or emotion.
       </p>
     </>
   );
