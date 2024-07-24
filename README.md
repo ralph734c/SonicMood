@@ -8,3 +8,5 @@ An app for mood or emotion based Shopify playlist generation.
 - React
 - Vite
 - TailwindCSS
+- Firebase
+- Clerk
