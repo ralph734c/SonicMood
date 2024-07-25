@@ -14,8 +14,10 @@ function App() {
     <>
       <header>
         <SignedOut>
-          <SignInButton />
-          <SignUpButton />
+          <div className="space-x-4">
+            <SignInButton />
+            <SignUpButton />
+          </div>
         </SignedOut>
         <SignedIn>
           <UserButton
